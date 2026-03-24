@@ -52,7 +52,12 @@ Click **Code → Download ZIP**
 ---
 
 ## 👍 Support
-If this helped:  
-- 👍 Like  
-- 💬 Comment  
-- 🔔 Subscribe  
+
+If this project helped you:
+
+👉 Watch the full tutorial: COMING SOON  
+
+And don’t forget to:
+- 👍 Like the video  
+- 💬 Comment your questions  
+- 🔔 Subscribe for more ESP32 projects  
